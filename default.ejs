@@ -9,13 +9,12 @@
 <body>
   <div id="app">
       <h1>404 Not Found</h1>
-      <p>以下是可访问页面1111</p>
+      <p>以下是可访问页面</p>
       <!-- 根据构建生成的html文件 -->
       <% var html = assets.filter(function(item){return item.indexOf('.html') >= 0})%>
       <% for(var j = 0; j < html.length; j++) {%>
           <a class="link" href="<%-'./'+html[j] %>"><%-html[j] %></a>
           <% } %>
-      
   </div>
 </body>
 </html>
