@@ -1,6 +1,6 @@
 {
   "name": "page-entry-webpack-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Automatically generate routing pages for multi-page projects",
   "main": "index.js",
   "scripts": {
