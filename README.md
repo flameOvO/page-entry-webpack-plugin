@@ -32,4 +32,6 @@ npm install --save-dev page-entry-webpack-plugin
  */
 ````
 
+模板内可以得到的asserts（webpack构建的asserts）跟options（plugin传入的参数）;
+
 
