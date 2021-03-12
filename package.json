@@ -10,7 +10,7 @@
     "index.js",
     "default.ejs"
   ],
-  "keywords": [],
+  "keywords": ["webpack", "plugin", "html", "page-entry-webpack-plugin", "multipage"],
   "author": "",
   "license": "ISC",
   "devDependencies": {
